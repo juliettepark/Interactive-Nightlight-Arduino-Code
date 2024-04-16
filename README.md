@@ -8,8 +8,8 @@
 - and more!
 
 ### Background and Theme
-This nightlight was inspiried by the ger - a transportable housing unit traditionally used by the nomadic Mongolian people. It is a beautiful structure and typically includes a stove in the middle. 
-Therefore, the ger not only emits light, it also represents home, warmth, and comfort - themes that are central and representative of a nightlight.
+This nightlight was inspiried by the ger - a traditional transportable housing unit traditionally used by nomadic Mongolian peoples. It is a beautiful structure and typically includes a stove in the middle. 
+Therefore, the ger not only emits light, but it also represents home, warmth, and comfort - themes that are central and representative of a nightlight.
 
 ### Interactive Modes
 This interactive nightlight includes 3 modes:

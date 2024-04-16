@@ -13,10 +13,10 @@ Therefore, the ger not only emits light, but it also represents home, warmth, an
 
 ### Interactive Modes
 This interactive nightlight includes 3 modes:
-1. RGB Crossfade + Photosensitivity: The nightlight's LED will crossfade across the full, rainbow color spectrum. It also will adjust the brightness to be inversely proportional to the light levels 
+1. **RGB Crossfade** + Photosensitivity: The nightlight's LED will crossfade across the full, rainbow color spectrum. It also will adjust the brightness to be inversely proportional to the light levels 
 of its environment (using the photoresistor). Darker room = brighter LED, brighter room = darker LED.
-2. Lofi Color Picker: The user may select the desired color of the nightlight using the DIY potentiometer I build using graphite and paper. Sliding the picker across the strip will trigger 1 of 6 possible color options (please see demo).
-3. Party Mode! 🎉: (My personal favorite) When the parents close the door and leave, that's when the party begins! Please close the door (lofi button build with copper tape) to trigger party mode!
+2. **Lofi Color Picker**: The user may select the desired color of the nightlight using the DIY potentiometer I built using graphite and paper. Sliding the picker across the strip will trigger 1 of 6 possible color options (please see demo).
+3. **Party Mode! 🎉**: (My personal favorite) When the parents close the door and leave, that's when the party begins! Please close the door (lofi button build with copper tape) to trigger party mode!
 
 ## Video Demo + Process
 Please see the following link to view a video demo of the Gentle Ger Getaway in action!
